@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Harshit Chopra</h1>
 <h3 align="center">SDE at Swiggy</h3>
 
-<img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="center" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitchopra7&label=Profile%20views&color=0e75b6&style=flat" alt="harshitchopra7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitchopra7" alt="harshitchopra7" /></a> </p>
 
-- 🔭 I’m currently working on **Nextjs, Typescript, Reactjs, Javascript**
+- 🔭 I’m currently working on **Nextjs, Typescript, Reactjs, Javascript**.
 
 - 👨‍💻 All of my projects are available at [https://harshit-portfolio99.web.app/](https://harshit-portfolio99.web.app/)
 
-- 💬 Ask me about **Frontend Development, DSA**
+- 💬 Ask me about **Frontend Development, DSA**.
 
 - 📫 How to reach me **chopraharshit0909@gmail.com**
 
@@ -27,4 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitchopra7&show_icons=true&locale=en&layout=compact" alt="harshitchopra7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitchopra7&show_icons=true&locale=en" alt="harshitchopra7" /></p>
