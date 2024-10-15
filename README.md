@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Chopra</h1>
-<h3 align="center">SDE at Swiggy</h3>
+<h3 align="center">SDE - 2 | Ex - Swiggy</h3>
 
 <img align="center" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
